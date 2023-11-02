@@ -1,8 +1,8 @@
 # Cas13AgRNAtor
 
-Code Repository for 
-- BS6203 Story-telling with Graphics and Visualisations
-- BS6204 Deep Learning for Biomedical Science (In the Deep_Learning Subdirectory)
+Code Repository for projects under NTU Masters in Biomedical Data Science for the following courseworks:
+- BS6203 Story-telling with Graphics and Visualisations (Plotting)
+- BS6204 Deep Learning for Biomedical Science (Deep_Learning)
 
 ## Synopsis 
 
