@@ -5,6 +5,8 @@ library(gghighlight)
 library(reshape2)
 theme_update(plot.title = element_text(hjust = 0.5))
 
+## Author: Denise Ng
+
 #rna fold
 file1 <- "RNAfold.results.outliers.csv"
 rna<-read.csv(file1, sep = '\t')
